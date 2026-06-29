@@ -1,0 +1,110 @@
+Patient Name,Timestamp,Alert,Score,Level
+gjhg,2026-06-25 14:24:37,Lip Pressing,2,LOW
+gjhg,2026-06-25 14:24:51,Lip Pressing,2,LOW
+gjhg,2026-06-25 14:25:15,Lip Pressing,2,LOW
+dtegdf,2026-06-25 14:27:28,Sudden Hand Movement,0,LOW
+dtegdf,2026-06-25 14:27:35,Head Shaking,20,HIGH
+dtegdf,2026-06-25 14:27:50,Lip Pressing,2,LOW
+dtegdf,2026-06-25 14:27:56,Head Shaking,20,HIGH
+dtegdf,2026-06-25 14:28:01,Sudden Hand Movement,20,HIGH
+Ammuz,2026-06-25 14:29:36,Lip Pressing,2,LOW
+Ammuz,2026-06-25 14:29:43,Looking Away,20,HIGH
+Ammuz,2026-06-25 14:29:50,Lip Pressing,20,HIGH
+Ammuz,2026-06-25 14:31:04,Lip Pressing,2,LOW
+Ammuz,2026-06-25 14:32:06,Lip Pressing,2,LOW
+Ammuz,2026-06-25 14:32:12,Lip Pressing,14,HIGH
+kjhkh,2026-06-25 14:33:12,Lip Pressing,2,LOW
+kjhkh,2026-06-25 14:33:17,Lip Pressing,6,MODERATE
+xfgxd,2026-06-25 14:36:55,Lip Pressing,2,LOW
+lkhjkbhkj,2026-06-25 14:37:28,Lip Pressing,2,LOW
+lkhjkbhkj,2026-06-25 14:37:34,Lip Pressing,15,HIGH
+lkhjkbhkj,2026-06-25 14:37:39,Lip Pressing,20,HIGH
+kjhk,2026-06-25 14:43:58,Sudden Hand Movement,1,LOW
+kjhk,2026-06-25 14:44:04,Lip Pressing,20,HIGH
+jhvjhvj,2026-06-25 14:44:29,Lip Pressing,4,LOW
+jhvjhvj,2026-06-25 14:44:29,Body Twisting,4,LOW
+jhvjhvj,2026-06-25 14:44:34,Lip Pressing,20,HIGH
+jhvjhvj,2026-06-25 14:44:39,Lip Pressing,20,HIGH
+jhvjhvj,2026-06-25 14:44:44,Lip Pressing,20,HIGH
+jhvjhvj,2026-06-25 14:44:44,Body Twisting,20,HIGH
+jhvjhvj,2026-06-25 14:45:08,Sudden Hand Movement,3,LOW
+jhvjhvj,2026-06-25 14:45:08,Lip Pressing,3,LOW
+aaaaa,2026-06-25 14:52:18,Lip Pressing,4,LOW
+aaaaa,2026-06-25 14:52:18,Body Twisting,4,LOW
+aaaaa,2026-06-25 14:52:23,Looking Away,20,HIGH
+aaaaa,2026-06-25 14:52:23,Body Twisting,20,HIGH
+kjbhkj,2026-06-25 14:53:55,Lip Pressing,5,MODERATE
+kjbhkj,2026-06-25 14:53:55,Looking Away,5,MODERATE
+kjbhkj,2026-06-25 14:53:55,Body Twisting,5,MODERATE
+kjbhkj,2026-06-25 14:54:00,Looking Away,20,HIGH
+kjbhkj,2026-06-25 14:54:00,Body Twisting,20,HIGH
+kjbhkj,2026-06-25 14:54:06,Looking Away,20,HIGH
+hjhj,2026-06-25 14:56:13,Lip Pressing,4,LOW
+hjhj,2026-06-25 14:56:13,Body Twisting,4,LOW
+hjhj,2026-06-25 14:56:18,Sudden Hand Movement,20,HIGH
+hjhj,2026-06-25 14:56:18,Lip Pressing,20,HIGH
+hjhj,2026-06-25 14:56:18,Looking Away,20,HIGH
+hjhj,2026-06-25 14:56:18,Body Twisting,20,HIGH
+hjhj,2026-06-25 14:56:23,Looking Away,20,HIGH
+mhjhvj,2026-06-25 14:56:58,Lip Pressing,5,MODERATE
+mhjhvj,2026-06-25 14:56:58,Looking Away,5,MODERATE
+mhjhvj,2026-06-25 14:56:58,Body Twisting,5,MODERATE
+mhjhvj,2026-06-25 14:57:03,Lip Pressing,20,HIGH
+mhjhvj,2026-06-25 14:57:03,Looking Away,20,HIGH
+mhjhvj,2026-06-25 14:57:08,Looking Away,20,HIGH
+mhjhvj,2026-06-25 14:57:39,Looking Away,1,LOW
+mhjhvj,2026-06-25 14:57:44,Lip Pressing,20,HIGH
+mhjhvj,2026-06-25 14:57:44,Body Twisting,20,HIGH
+mhjhvj,2026-06-25 14:57:49,Lip Pressing,20,HIGH
+mhjhvj,2026-06-25 14:57:49,Looking Away,20,HIGH
+mhjhvj,2026-06-25 14:57:49,Body Twisting,20,HIGH
+mhjhvj,2026-06-25 14:59:36,Lip Pressing,5,MODERATE
+mhjhvj,2026-06-25 14:59:36,Looking Away,5,MODERATE
+mhjhvj,2026-06-25 14:59:36,Body Twisting,5,MODERATE
+mhjhvj,2026-06-25 14:59:41,Sudden Hand Movement,20,HIGH
+mhjhvj,2026-06-25 14:59:41,Looking Away,20,HIGH
+mhjhvj,2026-06-25 14:59:41,Body Twisting,20,HIGH
+mhjhvj,2026-06-25 14:59:46,Looking Away,20,HIGH
+mhjhvj,2026-06-25 14:59:46,Body Twisting,20,HIGH
+mhjhvj,2026-06-25 14:59:51,Lip Pressing,20,HIGH
+mhjhvj,2026-06-25 14:59:51,Looking Away,20,HIGH
+mhjhvj,2026-06-25 14:59:51,Body Twisting,20,HIGH
+jhbj,2026-06-25 15:11:17,Lip Pressing,3,LOW
+jhbj,2026-06-25 15:11:17,Looking Away,3,LOW
+jhbj,2026-06-25 15:11:20,Body Twisting,20,HIGH
+jhbj,2026-06-25 15:11:22,Sudden Hand Movement,20,HIGH
+jhbj,2026-06-25 15:11:22,Lip Pressing,20,HIGH
+jhbj,2026-06-25 15:11:22,Looking Away,20,HIGH
+jhbj,2026-06-25 15:11:22,Body Twisting,20,HIGH
+jhbj,2026-06-25 15:11:24,Sudden Hand Movement,20,HIGH
+jhbj,2026-06-25 15:11:24,Lip Pressing,20,HIGH
+jhbj,2026-06-25 15:11:24,Looking Away,20,HIGH
+jhbj,2026-06-25 15:11:24,Body Twisting,20,HIGH
+jhbj,2026-06-25 15:11:26,Lip Pressing,20,HIGH
+jhbj,2026-06-25 15:11:26,Looking Away,20,HIGH
+jhbj,2026-06-25 15:11:28,Lip Pressing,20,HIGH
+jhbj,2026-06-25 15:11:30,Lip Pressing,20,HIGH
+hhhhh,2026-06-25 15:12:26,Possible Slapping Movement,6,MODERATE
+hhhhh,2026-06-25 15:12:26,Lip Pressing,6,MODERATE
+hhhhh,2026-06-25 15:12:26,Looking Away,6,MODERATE
+hhhhh,2026-06-25 15:12:26,Body Twisting,6,MODERATE
+hhhhh,2026-06-25 15:12:28,Possible Slapping Movement,20,HIGH
+hhhhh,2026-06-25 15:12:28,Lip Pressing,20,HIGH
+hhhhh,2026-06-25 15:12:28,Body Twisting,20,HIGH
+hhhhh,2026-06-25 15:12:30,Possible Slapping Movement,20,HIGH
+hhhhh,2026-06-25 15:12:30,Lip Pressing,20,HIGH
+hhhhh,2026-06-25 15:12:30,Looking Away,20,HIGH
+hhhhh,2026-06-25 15:12:30,Body Twisting,20,HIGH
+hhhhh,2026-06-25 15:12:32,Possible Slapping Movement,20,HIGH
+hhhhh,2026-06-25 15:12:32,Lip Pressing,20,HIGH
+hhhhh,2026-06-25 15:12:34,Possible Slapping Movement,20,HIGH
+hhhhh,2026-06-25 15:12:36,Lip Pressing,20,HIGH
+vidya,2026-06-25 15:43:10,Lip Pressing,2,LOW
+vidya,2026-06-25 15:43:13,Sudden Hand Movement,11,HIGH
+vidya,2026-06-25 15:43:13,Lip Pressing,11,HIGH
+vidya,2026-06-25 15:43:15,Sudden Hand Movement,20,HIGH
+vidya,2026-06-25 15:43:17,Sudden Hand Movement,20,HIGH
+vidya,2026-06-25 15:43:19,Lip Pressing,20,HIGH
+vidya,2026-06-25 15:43:22,Lip Pressing,20,HIGH
+vidya,2026-06-25 15:43:25,Body Twisting,20,HIGH
+vidya,2026-06-25 15:43:29,Body Twisting,20,HIGH
